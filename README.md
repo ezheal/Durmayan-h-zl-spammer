@@ -1,2 +1,2 @@
-# Durmayan-h-zl-spammer
+# Durmayan-hizli-spammer
 Siz programı kapatana kadar durmayacaktır.
